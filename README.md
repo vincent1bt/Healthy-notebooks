@@ -1,31 +1,39 @@
-Tutoriales de las libretas en mi [página](https://vincentblog.xyz/).
+You can see more in my [page](https://vincentblog.xyz/).
 
-## Detectando Alzheimer con Deep learning
+## Detecting Alzheimer’s desease with deep learning
 
-[Link al tutorial](https://vincentblog.xyz/posts/detectando-alzheimer-con-deep-learning)
+[Post](https://vincentblog.xyz/posts/detecting-alzheimer-s-desease-with-deep-learning)
 
-[Link para ver la libreta](https://nbviewer.jupyter.org/github/vincent1bt/Healthy-notebooks/blob/master/AD.ipynb)
+[Notebook](https://nbviewer.jupyter.org/github/vincent1bt/Healthy-notebooks/blob/master/AD.ipynb)
 
-## Machine learning in healthcare parte 1
+## Machine learning in healthcare part 1
 
-[Link al tutorial](https://vincentblog.xyz/posts/machine-learning-in-healthcare-parte-1)
+[Post](https://vincentblog.xyz/posts/machine-learning-in-healthcare-part-1)
 
 ### Diabetes
 
-[Link para ver la libreta](https://nbviewer.jupyter.org/github/vincent1bt/Healthy-notebooks/blob/master/Diabetes.ipynb)
+[Notebook](https://nbviewer.jupyter.org/github/vincent1bt/Healthy-notebooks/blob/master/Diabetes.ipynb)
 
 ### Heart disease
 
-[Link para ver la libreta](https://nbviewer.jupyter.org/github/vincent1bt/Healthy-notebooks/blob/master/HeartDisease.ipynb)
+[Notebook](https://nbviewer.jupyter.org/github/vincent1bt/Healthy-notebooks/blob/master/HeartDisease.ipynb)
 
-## Machine learning in healthcare parte 2
+## Machine learning in healthcare part 2
 
-[Link al tutorial](https://vincentblog.xyz/posts/machine-learning-in-healthcare-parte-2)
+[Post](https://vincentblog.xyz/posts/machine-learning-in-healthcare-part-2)
 
 ### Malaria
 
-[Link para ver la libreta](https://nbviewer.jupyter.org/github/vincent1bt/Healthy-notebooks/blob/master/Malaria.ipynb)
+[Notebook](https://nbviewer.jupyter.org/github/vincent1bt/Healthy-notebooks/blob/master/Malaria.ipynb)
 
 ### Breast cancer
 
-[Link para ver la libreta](https://nbviewer.jupyter.org/github/vincent1bt/Healthy-notebooks/blob/master/breastCancer.ipynb)
+[Notebook](https://nbviewer.jupyter.org/github/vincent1bt/Healthy-notebooks/blob/master/breastCancer.ipynb)
+
+## Pneumonia and object detection
+
+[Object detection post](https://vincentblog.xyz/posts/one-shot-object-detection)
+
+[Pneumonia post](https://vincentblog.xyz/posts/pneumonia-detection)
+
+[Notebook](https://nbviewer.jupyter.org/github/vincent1bt/Healthy-notebooks/blob/master/pneumonia.ipynb)
