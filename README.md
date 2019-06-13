@@ -1,34 +1,34 @@
-You can see more in my [page](https://vincentblog.xyz/).
+You can see more on [my blog](https://vincentblog.xyz/).
 
 ## Detecting Alzheimer’s desease with deep learning
 
-[Post](https://vincentblog.xyz/posts/detecting-alzheimer-s-desease-with-deep-learning)
+[Link to post](https://vincentblog.xyz/posts/detecting-alzheimer-s-desease-with-deep-learning)
 
-[Notebook](https://nbviewer.jupyter.org/github/vincent1bt/Healthy-notebooks/blob/master/AD.ipynb)
+[Jupyter Notebook](https://nbviewer.jupyter.org/github/vincent1bt/Healthy-notebooks/blob/master/AD.ipynb)
 
 ## Machine learning in healthcare part 1
 
-[Post](https://vincentblog.xyz/posts/machine-learning-in-healthcare-part-1)
+[Link to post](https://vincentblog.xyz/posts/machine-learning-in-healthcare-part-1)
 
 ### Diabetes
 
-[Notebook](https://nbviewer.jupyter.org/github/vincent1bt/Healthy-notebooks/blob/master/Diabetes.ipynb)
+[Jupyter Notebook](https://nbviewer.jupyter.org/github/vincent1bt/Healthy-notebooks/blob/master/Diabetes.ipynb)
 
 ### Heart disease
 
-[Notebook](https://nbviewer.jupyter.org/github/vincent1bt/Healthy-notebooks/blob/master/HeartDisease.ipynb)
+[Jupyter Notebook](https://nbviewer.jupyter.org/github/vincent1bt/Healthy-notebooks/blob/master/HeartDisease.ipynb)
 
 ## Machine learning in healthcare part 2
 
-[Post](https://vincentblog.xyz/posts/machine-learning-in-healthcare-part-2)
+[Link to post](https://vincentblog.xyz/posts/machine-learning-in-healthcare-part-2)
 
 ### Malaria
 
-[Notebook](https://nbviewer.jupyter.org/github/vincent1bt/Healthy-notebooks/blob/master/Malaria.ipynb)
+[Jupyter Notebook](https://nbviewer.jupyter.org/github/vincent1bt/Healthy-notebooks/blob/master/Malaria.ipynb)
 
 ### Breast cancer
 
-[Notebook](https://nbviewer.jupyter.org/github/vincent1bt/Healthy-notebooks/blob/master/breastCancer.ipynb)
+[Jupyter Notebook](https://nbviewer.jupyter.org/github/vincent1bt/Healthy-notebooks/blob/master/breastCancer.ipynb)
 
 ## Pneumonia and object detection
 
@@ -36,4 +36,10 @@ You can see more in my [page](https://vincentblog.xyz/).
 
 [Pneumonia post](https://vincentblog.xyz/posts/pneumonia-detection)
 
-[Notebook](https://nbviewer.jupyter.org/github/vincent1bt/Healthy-notebooks/blob/master/pneumonia.ipynb)
+[Jupyter Notebook](https://nbviewer.jupyter.org/github/vincent1bt/Healthy-notebooks/blob/master/pneumonia.ipynb)
+
+## Brain Tumor segmentation with U-Net
+
+[Link to post](https://vincentblog.xyz/posts/brain-tumor-segmentation-with-u-net)
+
+[Jupyter Notebook](https://nbviewer.jupyter.org/github/vincent1bt/Healthy-notebooks/blob/master/U_net.ipynb)
