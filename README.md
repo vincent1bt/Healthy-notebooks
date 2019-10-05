@@ -43,3 +43,10 @@ You can see more on [my blog](https://vincentblog.xyz/).
 [Link to post](https://vincentblog.xyz/posts/brain-tumor-segmentation-with-u-net)
 
 [Jupyter Notebook](https://nbviewer.jupyter.org/github/vincent1bt/Healthy-notebooks/blob/master/U_net.ipynb)
+
+
+## Medical Images In python (Computed Tomography)
+
+[Link to post](https://vincentblog.xyz/posts/medical-images-in-python-computed-tomography)
+
+[Jupyter Notebook](https://nbviewer.jupyter.org/github/vincent1bt/Healthy-notebooks/blob/master/CT_images.ipynb)
