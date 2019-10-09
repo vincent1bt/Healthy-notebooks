@@ -50,3 +50,9 @@ You can see more on [my blog](https://vincentblog.xyz/).
 [Link to post](https://vincentblog.xyz/posts/medical-images-in-python-computed-tomography)
 
 [Jupyter Notebook](https://nbviewer.jupyter.org/github/vincent1bt/Healthy-notebooks/blob/master/CT_images.ipynb)
+
+## Medical Images In python (MRI and PET)
+
+[Link to post](https://vincentblog.xyz/posts/magnetic-resonance-imaging-and-positron-emission-tomography-images)
+
+[Jupyter Notebook](https://nbviewer.jupyter.org/github/vincent1bt/Healthy-notebooks/blob/master/MR_images.ipynb)
