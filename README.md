@@ -56,3 +56,9 @@ You can see more on [my blog](https://vincentblog.xyz/).
 [Link to post](https://vincentblog.xyz/posts/magnetic-resonance-imaging-and-positron-emission-tomography-images)
 
 [Jupyter Notebook](https://nbviewer.jupyter.org/github/vincent1bt/Healthy-notebooks/blob/master/MR_images.ipynb)
+
+## Diagnose like a Radiologist. Attention-based model on TensorFlow 2.0
+
+[Link to post](https://vincentblog.xyz/posts/diagnose-like-a-radiologist-attention-based-model-on-tensor-flow-2-0)
+
+[Jupyter Notebook](https://nbviewer.jupyter.org/github/vincent1bt/Healthy-notebooks/blob/master/AttentionX_ray.ipynb)
